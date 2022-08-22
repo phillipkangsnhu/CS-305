@@ -1,1 +1,3 @@
 # CS-305
+
+Artemis Financial is a company looking to ensure that their software was up to the latest security standards. I looked through potential vulnerabilities and security holes to make sure that libraries were up to date and that the latest encryption was used. I found that going through the vulnerability assessment ensured that I considered all possibilities of attack. By making changes to the code and re-running the vulnerability assessment tool, I was able to make sure that no new vulnerabilities were introduced. In the future, I would want to show this to a future employer to demonstrate that I was able to follow industry-standard practices to bring code security up.
